@@ -1,1 +1,1 @@
-a new line
+non empty
